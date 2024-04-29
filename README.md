@@ -1,3 +1,3 @@
-# TP 2023 Paradigmas de Programacion UTN 
+# TP Opcional 2023 PdeP UTN 
 
-The Snake in Wollok Game
+El famoso juego "Snake" hecho para la materia Paradigmas de Programación (PdeP)
